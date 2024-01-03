@@ -1,4 +1,4 @@
-# Install script for directory: /Users/grayforrester/CLionProjects/JazzTeacher
+# Install script for directory: /Users/grayforrester/eclipse-workspace/Battleship/JazzTeacher
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/grayforrester/CLionProjects/JazzTeacher/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/grayforrester/eclipse-workspace/Battleship/JazzTeacher/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
